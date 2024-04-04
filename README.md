@@ -1,10 +1,13 @@
 # **End to End Machine Learning Projects**
---------------------------------------------------------------------
 This repository showcases a collection of end-to-end machine learning projects that demonstrate the full lifecycle of ML development. From initial data analysis to model deployment, each project encapsulates the critical stages of building and deploying machine learning models.
 
+## Create an enviroment, setup and structure:
+1. Enviroment: conda create -n venv python=3.10 -y
+2. Setup and requirements: pip install -r requirements.txt
+3. Template: python template.py
 
-## PROJECTS STRUCTURE OVERVIEW:
----------------------
+
+## Project structure overview:
 1. Introduction 
 2. Problem Statement
 3. Data Collection and Preprocessing
@@ -15,8 +18,7 @@ This repository showcases a collection of end-to-end machine learning projects t
 8. Conclusion
 
 
-## EXPLORATORY DATA ANALYSIS (EDA) STEPS REFERENCE:
-----------------------------------------
+## Exploratory data analysis (EDA) steps reference:
 1. Initial Dataset Review:
 - Comprehension: Understand the dataset’s features, size, and structure.
 - Documentation: Note initial observations for deeper analysis.
@@ -42,9 +44,7 @@ This repository showcases a collection of end-to-end machine learning projects t
 - Feature Interactions: Identify relationships between features.
 
 
-
-##  END TO END ML WORKFLOW STEPS REFERENCE:
----------------------------------
+## End to end machine learning life cycle reference:
 1. Choose a Dataset: Identify a dataset that aligns with your project goals, whether it’s self-collected or sourced from platforms like Kaggle or UCI ML Repository.
 2. Data Ingestion: Load the chosen dataset into your machine learning environment for initial exploration and analysis.
 3. Preprocess the Data: Clean and prepare your data by handling missing values, outliers, and encoding categorical variables into numerical formats using techniques like One Hot Encoding or Label Encoding.
@@ -58,8 +58,9 @@ This repository showcases a collection of end-to-end machine learning projects t
 11. Cloud Deployment: Deploy the model to cloud services such as AWS to ensure scalability and accessibility.
 
 
+
+
 ## PROJECTS:
-------------
 1. 
 
 
