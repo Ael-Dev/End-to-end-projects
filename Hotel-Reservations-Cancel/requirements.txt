@@ -1,0 +1,9 @@
+numpy
+matplotlib
+seaborn
+pickle
+pandas
+scikit-learn
+jupyter
+fastapi
+mlflow
