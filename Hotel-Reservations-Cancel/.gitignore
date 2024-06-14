@@ -1,0 +1,4 @@
+data/
+mlartifacts/
+mlruns/
+notebook/mlruns/
