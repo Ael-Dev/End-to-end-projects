@@ -8,12 +8,14 @@
 - FastAPI
 - Docker
 
-## ML Pipeline
+## Notebooks
 
-- Data Ingestion
-- Data Pre Processing
-- Feature Ingineering
-- Model Training
-- Model Validation
+![Notebooks](./notebooks)
 
 ## API with FastAPI
+
+![api result]('./images/fastAPI_pred.png')
+
+## UI APP
+
+![UI App]('./images/UI_app.png')
