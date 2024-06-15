@@ -10,12 +10,12 @@
 
 ## Notebooks
 
-![Notebooks](./notebooks)
+[Notebooks](https://github.com/Ael-Dev/End-to-end-projects/tree/main/Hotel-Reservations-Cancel/notebooks)
 
 ## API with FastAPI
 
-![api result]('./images/fastAPI_pred.png')
+![API Result](https://github.com/Ael-Dev/End-to-end-projects/blob/main/Hotel-Reservations-Cancel/images/fastAPI_pred.png)
 
 ## UI APP
 
-![UI App]('./images/UI_app.png')
+![UI App](https://github.com/Ael-Dev/End-to-end-projects/blob/main/Hotel-Reservations-Cancel/images/UI_app.png)
